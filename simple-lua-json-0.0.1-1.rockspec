@@ -1,4 +1,4 @@
-package = "lua-json"
+package = "simple-lua-json"
 local v = "0.0.1"
 version = v.."-1"
 
